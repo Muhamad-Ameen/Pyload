@@ -1,5 +1,5 @@
 This script just for education purpose # I hope you enjoy                             
-The auther Muhamad_Ameen
+Auther Muhamad_Ameen
 
 Created with python3 
 
