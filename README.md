@@ -13,4 +13,4 @@ finally you have to send client.py to your target and when your target run clien
 
 
 for more information direct me.                             
-Telegram :- https://t.me/Muhamad_Ameen 
+Telegram :- https://t.me/Muhamad_Ameen_py
